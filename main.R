@@ -1,4 +1,4 @@
-# main.R
+# main.R - an easy way to reproduce the environment without rerunning separately all files
 
 # Always run these
 source("config.R")
