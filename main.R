@@ -8,7 +8,7 @@ source("R/data_preparation.R")
 
 
 # Exploratory Analysis - comment out if you don't need to rerun
-source("R/exploratory_analysis.R")
+#source("R/exploratory_analysis.R")
 
 # Leapfrogging Analysis - uncomment when you're ready to run this part
 # source("R/leapfrogging_analysis.R")
